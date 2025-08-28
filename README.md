@@ -21,3 +21,6 @@ This project allows users to **add, update, delete, and view student details** i
 1. Clone the repository:
    ```bash
    git clone https://github.com/OmkarKatore380/Student_Management_Project.git
+2. Import into Eclipse/IntelliJ as a Java EE project.
+3. Configure your MySQL database and update ConnectionDb.java with your DB credentials.
+4. Run on Apache Tomcat server.
